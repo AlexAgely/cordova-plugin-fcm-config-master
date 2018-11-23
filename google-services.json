@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "43334094599",
+    "firebase_url": "https://drible-mais.firebaseio.com",
+    "project_id": "drible-mais-214214",
+    "storage_bucket": "drible-mais-214214.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43334094599:android:787a4fb88d61e36f",
+        "android_client_info": {
+          "package_name": "com.agely.dribleMais"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359995556233-u93utl4c3u806r5u735llsqilfslktdn.apps.googleusercontent.com",
+          "client_type": 3
+		  "android_info" : {  
+            "package_name" : "com.agely.dribleMais" , 
+            "certificate_hash" : "4F0B50C1249B41B8AD241AE974FB99C29E7A79A0"    
+          } 
+        }
+      ],
+	   "expo": [
+     "ios": {
+       "bundleIdentifier": "com.agely.dribleMais",
+       "infoPlist": {
+         "NSLocationAlwaysUsageDescription": "Some message to appease Apple.",
+       },
+     },
+   ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwB_C9i5oQpSPZFGZxVLnHTLViM5-4h3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
